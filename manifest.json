@@ -1,0 +1,38 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/base/MessageCareComponent.js",
+		"bin-debug/common/PanelBase.js",
+		"bin-debug/manager/SoundManager.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/base/MessageType.js",
+		"bin-debug/common/IMessageCare.js",
+		"bin-debug/common/MessageCallback.js",
+		"bin-debug/common/MessageManager.js",
+		"bin-debug/common/MessageObserver.js",
+		"bin-debug/Main.js",
+		"bin-debug/manager/GameManager.js",
+		"bin-debug/manager/LocalDateManager.js",
+		"bin-debug/view/WordItem.js",
+		"bin-debug/model/GameModel.js",
+		"bin-debug/util/LocalStorageUtil.js",
+		"bin-debug/view/GameBeginPanel.js",
+		"bin-debug/view/GameEntry.js",
+		"bin-debug/view/GamePlayPanel.js",
+		"bin-debug/view/GameResetPanel.js",
+		"bin-debug/view/GameSeletItem.js",
+		"bin-debug/view/GameSeletorPanel.js",
+		"bin-debug/view/GameSettingPanel.js",
+		"bin-debug/view/GameWinPanel.js",
+		"bin-debug/view/WordGroup.js",
+		"bin-debug/LoadingUI.js"
+	]
+}

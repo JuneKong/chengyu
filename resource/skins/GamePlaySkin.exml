@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GamePlaySkin" width="720" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="GameBG3_jpg" x="0" y="0"/>
+	<e:Button id="btn_return" label="" x="34" y="8">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="BackBtn_png" source.down="BackBtn1_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="WordFrame_png" y="145" horizontalCenter="4.5"/>
+	<e:Image id="img_question" width="390" height="260" y="207.64" horizontalCenter="0"/>
+	<ns1:WordGroup id="group_words" width="520" height="410" y="640" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="6">
+		<e:layout>
+            <e:TileLayout horizontalGap="30" verticalGap="30"/>
+        </e:layout>
+	</ns1:WordGroup>
+	<ns1:AnswerWordGroup id="group_answer" width="367" height="80" x="179" y="492.64" anchorOffsetX="0">
+		<e:layout>
+            <e:HorizontalLayout gap="16"/>
+        </e:layout>
+	</ns1:AnswerWordGroup>
+</e:Skin>
