@@ -176,4 +176,3 @@ var GamePlayPanel = (function (_super) {
     return GamePlayPanel;
 }(MessageCareComponent));
 __reflect(GamePlayPanel.prototype, "GamePlayPanel");
-//# sourceMappingURL=GamePlayPanel.js.map

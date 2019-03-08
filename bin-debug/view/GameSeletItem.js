@@ -37,4 +37,3 @@ var GameSeletItem = (function (_super) {
     return GameSeletItem;
 }(eui.Button));
 __reflect(GameSeletItem.prototype, "GameSeletItem");
-//# sourceMappingURL=GameSeletItem.js.map

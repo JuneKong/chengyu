@@ -58,4 +58,3 @@ var GameResetPanel = (function (_super) {
     return GameResetPanel;
 }(eui.Component));
 __reflect(GameResetPanel.prototype, "GameResetPanel");
-//# sourceMappingURL=GameResetPanel.js.map

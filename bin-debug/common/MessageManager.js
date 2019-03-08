@@ -62,4 +62,3 @@ var common;
     common.MessageManager = MessageManager;
     __reflect(MessageManager.prototype, "common.MessageManager");
 })(common || (common = {}));
-//# sourceMappingURL=MessageManager.js.map

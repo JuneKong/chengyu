@@ -42,4 +42,3 @@ var MessageCareComponent = (function (_super) {
     return MessageCareComponent;
 }(eui.Component));
 __reflect(MessageCareComponent.prototype, "MessageCareComponent", ["common.IMessageCare"]);
-//# sourceMappingURL=MessageCareComponent.js.map

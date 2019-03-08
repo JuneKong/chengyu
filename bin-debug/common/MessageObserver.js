@@ -90,4 +90,3 @@ var common;
     common.MessageObserver = MessageObserver;
     __reflect(MessageObserver.prototype, "common.MessageObserver");
 })(common || (common = {}));
-//# sourceMappingURL=MessageObserver.js.map

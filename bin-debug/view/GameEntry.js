@@ -18,4 +18,3 @@ var GameEntry = (function () {
     return GameEntry;
 }());
 __reflect(GameEntry.prototype, "GameEntry");
-//# sourceMappingURL=GameEntry.js.map

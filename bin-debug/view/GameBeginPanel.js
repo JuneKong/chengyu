@@ -63,4 +63,3 @@ var GameBeginPanel = (function (_super) {
     return GameBeginPanel;
 }(eui.Component));
 __reflect(GameBeginPanel.prototype, "GameBeginPanel");
-//# sourceMappingURL=GameBeginPanel.js.map

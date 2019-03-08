@@ -22,7 +22,7 @@ module manager
 			// this.gameBegin = new GameBeginPanel();
 		}
 
-		public static instance:GameManager;
+		private static instance:GameManager;
 		//单例
 		public static getInstance():GameManager
 		{
@@ -42,7 +42,7 @@ module manager
 		}
 
 		/**
-		 * 实例化的现实对象
+		 * 实例化的显示对象
 		 */
 		private classDict:any = {};
 

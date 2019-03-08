@@ -83,4 +83,3 @@ var GameSettingPanel = (function (_super) {
     return GameSettingPanel;
 }(eui.Component));
 __reflect(GameSettingPanel.prototype, "GameSettingPanel");
-//# sourceMappingURL=GameSettingPanel.js.map

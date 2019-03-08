@@ -18,4 +18,3 @@ var common;
     common.PanelBase = PanelBase;
     __reflect(PanelBase.prototype, "common.PanelBase");
 })(common || (common = {}));
-//# sourceMappingURL=PanelBase.js.map

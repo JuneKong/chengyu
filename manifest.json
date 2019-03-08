@@ -21,7 +21,7 @@
 		"bin-debug/Main.js",
 		"bin-debug/manager/GameManager.js",
 		"bin-debug/manager/LocalDateManager.js",
-		"bin-debug/view/WordItem.js",
+		"bin-debug/LoadingUI.js",
 		"bin-debug/model/GameModel.js",
 		"bin-debug/util/LocalStorageUtil.js",
 		"bin-debug/view/GameBeginPanel.js",
@@ -33,6 +33,6 @@
 		"bin-debug/view/GameSettingPanel.js",
 		"bin-debug/view/GameWinPanel.js",
 		"bin-debug/view/WordGroup.js",
-		"bin-debug/LoadingUI.js"
+		"bin-debug/view/WordItem.js"
 	]
 }

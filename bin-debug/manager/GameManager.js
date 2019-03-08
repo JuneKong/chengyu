@@ -98,4 +98,3 @@ var manager;
     manager.GameManager = GameManager;
     __reflect(GameManager.prototype, "manager.GameManager");
 })(manager || (manager = {}));
-//# sourceMappingURL=GameManager.js.map

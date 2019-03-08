@@ -75,4 +75,3 @@ var GameWinPanel = (function (_super) {
     return GameWinPanel;
 }(eui.Component));
 __reflect(GameWinPanel.prototype, "GameWinPanel");
-//# sourceMappingURL=GameWinPanel.js.map

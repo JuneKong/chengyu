@@ -45,4 +45,3 @@ var model;
     model.GameModel = GameModel;
     __reflect(GameModel.prototype, "model.GameModel");
 })(model || (model = {}));
-//# sourceMappingURL=GameModel.js.map

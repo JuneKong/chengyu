@@ -76,4 +76,3 @@ var LevelDateItem = (function () {
     return LevelDateItem;
 }());
 __reflect(LevelDateItem.prototype, "LevelDateItem");
-//# sourceMappingURL=LocalDateManager.js.map

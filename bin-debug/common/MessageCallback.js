@@ -30,4 +30,3 @@ var common;
     common.MessageCallback = MessageCallback;
     __reflect(MessageCallback.prototype, "common.MessageCallback");
 })(common || (common = {}));
-//# sourceMappingURL=MessageCallback.js.map

@@ -222,4 +222,3 @@ var GameSeletorPanel = (function (_super) {
     return GameSeletorPanel;
 }(MessageCareComponent));
 __reflect(GameSeletorPanel.prototype, "GameSeletorPanel");
-//# sourceMappingURL=GameSeletorPanel.js.map

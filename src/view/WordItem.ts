@@ -24,7 +24,8 @@ class WordItem extends eui.Component
 	protected lbl_wordClickHandler(e:egret.TouchEvent):void
 	{
 		model.GameModel.getInstance().word = this;
-		model.GameModel.getInstance().updateModel(MessageType.UPDATE_WORD_SHOW);
+		// model.GameModel.getInstance().updateModel(MessageType.UPDATE_WORD_SHOW);
+		this.dispatchEventWith(egret.Event.CHANGE);
 	}
 
 	/**

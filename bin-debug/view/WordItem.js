@@ -31,7 +31,8 @@ var WordItem = (function (_super) {
     };
     WordItem.prototype.lbl_wordClickHandler = function (e) {
         model.GameModel.getInstance().word = this;
-        model.GameModel.getInstance().updateModel(MessageType.UPDATE_WORD_SHOW);
+        // model.GameModel.getInstance().updateModel(MessageType.UPDATE_WORD_SHOW);
+        this.dispatchEventWith(egret.Event.CHANGE);
     };
     /**
      * 获得字
@@ -89,4 +90,3 @@ var AnswerWordItem = (function (_super) {
     return AnswerWordItem;
 }(WordItem));
 __reflect(AnswerWordItem.prototype, "AnswerWordItem");
-//# sourceMappingURL=WordItem.js.map

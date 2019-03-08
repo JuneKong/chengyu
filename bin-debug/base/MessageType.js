@@ -22,4 +22,3 @@ var MessageType = (function () {
     return MessageType;
 }());
 __reflect(MessageType.prototype, "MessageType");
-//# sourceMappingURL=MessageType.js.map
